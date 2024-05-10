@@ -5,7 +5,7 @@
 A passionate developer from Karachi, Pakistan.
 
 <!-- Profile Picture -->
-<img src="https://avatars.githubusercontent.com/u/121876323?v=4" alt="Profile Picture" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/121876323?v=4" alt="Profile Picture" width="500"/>
 
 <!-- GitHub Banner -->
 ![Your GitHub Banner](https://images.pexels.com/photos/4584830/pexels-photo-4584830.jpeg?auto=compress&cs=tinysrgb&w=600)
