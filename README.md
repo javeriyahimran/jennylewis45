@@ -18,7 +18,6 @@ A passionate developer from Karachi, Pakistan.
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-javeriyah--imran-blue)](https://www.linkedin.com/in/javeriyah-imran-31399a251/)
-[![Twitter](https://img.shields.io/badge/Twitter-javeriyaimran-blue)](https://twitter.com/javeriyaimran)
 
 <!-- Languages & Tools -->
 ## Languages & Tools
