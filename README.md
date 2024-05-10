@@ -4,6 +4,12 @@
 <!-- Your Bio -->
 A passionate developer from Karachi, Pakistan.
 
+<!-- Profile Picture -->
+<img src="https://link-to-your-profile-picture" alt="Profile Picture" width="200"/>
+
+<!-- GitHub Banner -->
+![Your GitHub Banner](https://link-to-your-github-banner)
+
 <!-- Your Work -->
 ## My Work
 
